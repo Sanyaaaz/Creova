@@ -62,11 +62,9 @@ function FreeCreator() {
     <>
       <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div>
-          <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
+          <h1 className="font-semibold text-xl pb-2">Explore Creators</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          Discover a vibrant community of talented designers, video editors, graphic artists, and content creators. Creova connects you with innovative minds who craft extraordinary visuals, animations, and designs that inspire. Browse through a diverse gallery of creative works, showcasing skills across various domains, and find the perfect creator to bring your vision to life.
           </p>
         </div>
 
