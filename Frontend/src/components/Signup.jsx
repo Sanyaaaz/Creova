@@ -4,7 +4,7 @@ import Login from "./Login";
 import { useForm } from "react-hook-form";
 import axios from "axios";
 import toast from "react-hot-toast";
-function Signup() {
+function signup() {
   const location = useLocation();
   const navigate = useNavigate();
   const from = location.state?.from?.pathname || "/";
@@ -128,4 +128,4 @@ function Signup() {
   );
 }
 
-export default Signup;
+export default signup;
